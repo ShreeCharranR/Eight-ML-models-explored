@@ -1,2 +1,15 @@
 # 8-ML-models-explored
-regression, classification &amp; clustering algorithms
+
+# Major Regression , Classification & CLustering & Dimension Reduction
+
+
+
+- Data Formatiing for ML models
+- Linear Regression
+- Logistic
+- Logistic Multi Class
+- Bagged
+- Decision Trees
+- Random Forest
+- PCA
+- Pipeline Models
